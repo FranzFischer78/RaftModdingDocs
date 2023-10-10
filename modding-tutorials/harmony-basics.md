@@ -1,4 +1,4 @@
-# Harmony basics
+# 📚 Harmony basics
 
 ```csharp
 using HarmonyLib;

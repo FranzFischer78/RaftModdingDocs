@@ -4,7 +4,7 @@ description: >-
   specific happens in the game!
 ---
 
-# Mod Events
+# 📑 Mod Events
 
 _**How to use them?**_\
 _Its simple! In your mod class simply override them like shown below._

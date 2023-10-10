@@ -2,7 +2,7 @@
 description: Everything you need to know before playing modded Raft with your friends.
 ---
 
-# Mods in multiplayer
+# 👨👩👦👦 Mods in multiplayer
 
 You've already found out how to [install mods](https://api.raftmodding.com/tutorials/how-to-install-a-mod) and have maybe had fun playing with mods alone. But of course, playing games is better together and you might ask yourself how to play modded Raft together with your friends.
 

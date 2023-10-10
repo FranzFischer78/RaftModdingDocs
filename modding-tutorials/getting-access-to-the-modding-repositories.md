@@ -1,4 +1,4 @@
-# Getting access to the modding repositories
+# ✅ Getting access to the modding repositories
 
 In order to make a mod, it is essential to understand how the game works under the hood. Therefore, you can use tools like [dnSpy](https://github.com/dnSpy/dnSpy) (to decompile the game's code) or [uTinyRipper ](https://github.com/mafaca/UtinyRipper)(to export the game's assets). However, the results of those tools are usually not ideal and need to be fixed up in some places.
 

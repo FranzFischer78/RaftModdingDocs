@@ -1,4 +1,4 @@
-# Dropping/Spawning items
+# 📑 Dropping/Spawning items
 
 To drop/spawn an item we use the `DropItem` method from the `Helper` class.
 

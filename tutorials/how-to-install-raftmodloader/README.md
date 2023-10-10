@@ -2,7 +2,7 @@
 description: This Tutorial aims to show you how to install RaftModLoader.
 ---
 
-# How to install RaftModLoader
+# ℹ How to install RaftModLoader
 
 Let's get started with the first step!
 

@@ -4,7 +4,7 @@ description: >-
   RaftModLoader!
 ---
 
-# How to create a mod project
+# 👨💻 How to create a mod project
 
 Let's get started with the requirements! To get started modding you will need the following softwares :‌
 

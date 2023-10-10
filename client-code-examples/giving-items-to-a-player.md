@@ -1,4 +1,4 @@
-# Giving items to a player
+# 📑 Giving items to a player
 
 To give an item to a player you can use the `AddItem` method on the `PlayerInventory` class.
 

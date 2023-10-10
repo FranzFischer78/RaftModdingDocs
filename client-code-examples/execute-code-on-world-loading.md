@@ -1,4 +1,4 @@
-# Execute code on world loading
+# 📑 Execute code on world loading
 
 If you want to execute code only once a player joined a world use this method.\
 \

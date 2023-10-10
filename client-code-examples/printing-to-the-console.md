@@ -1,4 +1,4 @@
-# Printing to the console
+# 📑 Printing to the console
 
 To print to the console we use the the unity `Debug` class.
 

@@ -5,7 +5,7 @@ description: >-
   for coding multiplayer mods to test them)
 ---
 
-# How to run multiple raft instances
+# 🎮 How to run multiple raft instances
 
 Hey guys!\
 Today i'm gonna show you how to run multiple raft instances at the same time.

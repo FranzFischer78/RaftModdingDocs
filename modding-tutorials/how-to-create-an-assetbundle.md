@@ -4,7 +4,7 @@ description: >-
   models, textures, prefabs, particles etc...
 ---
 
-# How to create an AssetBundle
+# 📂 How to create an AssetBundle
 
 Let's get started with the requirements! \
 For this tutorial you will need the same requirements as the first tutorial.

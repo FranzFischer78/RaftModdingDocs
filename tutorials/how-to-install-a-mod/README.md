@@ -4,7 +4,7 @@ description: >-
   RaftModLoader!
 ---
 
-# How to install a mod
+# ⬇ How to install a mod
 
 Let's get started with the first step!
 

@@ -1,4 +1,4 @@
-# Modifying private variables
+# 📑 Modifying private variables
 
 Modifying private variables is clearly necessary when modding raft. Let's see how easy it is!
 

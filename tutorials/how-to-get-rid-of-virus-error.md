@@ -4,7 +4,7 @@ description: >-
   can have because of false positives
 ---
 
-# How to configure your antivirus
+# 🆘 How to configure your antivirus
 
 ## 0. Why is my antivirus suspecting RMLLauncher to be a Trojan/Malware ?
 

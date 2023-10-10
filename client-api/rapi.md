@@ -1,4 +1,4 @@
-# RAPI
+# 📑 RAPI
 
 Get the player username from a SteamID.
 

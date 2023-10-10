@@ -1,4 +1,4 @@
-# Adding private variables
+# 📑 Adding private variables
 
 ## Adding private variables
 

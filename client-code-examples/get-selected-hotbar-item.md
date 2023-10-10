@@ -1,4 +1,4 @@
-# Get selected hotbar item
+# 📑 Get selected hotbar item
 
 To get the current item that the player has selected we use the `GetSelectedHotbarItem` method from the `PlayerInventory` class.
 
