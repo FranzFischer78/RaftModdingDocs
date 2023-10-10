@@ -1,7 +1,7 @@
----
-description: Back Soon !
----
+# Accessing the player instance
 
-# Back Soon !
+In order to access the local player instance, we use the `GetLocalPlayer` method from the `RAPI` class it return the instance of the player `Network_Player`
 
-Back Soon !
+```csharp
+Network_Player player = RAPI.GetLocalPlayer();
+```

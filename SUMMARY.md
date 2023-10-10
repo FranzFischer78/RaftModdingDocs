@@ -28,7 +28,14 @@
 
 ## 📚 Modding Examples
 
-* [Back Soon !](modding-examples/back-soon.md)
+* [Accessing the player instance](modding-examples/back-soon.md)
+* [Adding private variables](modding-examples/adding-private-variables.md)
+* [Spawning dropped items](modding-examples/spawning-dropped-items.md)
+* [Get selected hotbar item](modding-examples/get-selected-hotbar-item.md)
+* [Get the current SteamID](modding-examples/get-the-current-steamid.md)
+* [Get the current username](modding-examples/get-the-current-username.md)
+* [Giving items to a player](modding-examples/giving-items-to-a-player.md)
+* [Modifying private variables](modding-examples/modifying-private-variables.md)
 
 ## 🌏 WEBSITE
 
