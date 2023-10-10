@@ -1,4 +1,10 @@
-# 📚 Harmony basics
+---
+description: >-
+  This tutorial is intended to guide you through using Harmony to patch the game
+  methods and more.
+---
+
+# Harmony basics
 
 ```csharp
 using HarmonyLib;

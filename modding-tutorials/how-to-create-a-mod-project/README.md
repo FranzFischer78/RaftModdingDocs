@@ -1,10 +1,10 @@
 ---
 description: >-
-  This Tutorial aims to show you how to create a mod project on Raft using
-  RaftModLoader!
+  This tutorial is here to guide you through creating a mod project on Raft
+  using RaftModLoader!
 ---
 
-# 👨💻 How to create a mod project
+# How to create a mod project
 
 Let's get started with the requirements! To get started modding you will need the following softwares :‌
 
@@ -20,7 +20,7 @@ Now that you have the required softwares, let's create your mod project!‌
 
 **1)** Open the RMLLLauncher and create a mod project by using the mod creator as shown below.‌
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 **2)** In the project name text field enter your mod name and hit **Create Project!** It will then tells you if it has succeeded and opens you the project folder as shown below.‌
 
@@ -50,9 +50,9 @@ As you can see when you press F10 it executes the code in the Start() method.‌
 
 **7)** Now that you know how to write code, to modify your mod information such as its description, its license, the icon, the banner etc simply go in to your mod project files and edit the **modinfo.json** file as shown below.‌
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
-If you want to know more about this file, how to add an icon, what is the excludedFiles field etc, click below.[The modinfo.json file/modding-tutorials/how-to-create-a-mod-project/the-modinfo.json-file‌](the-modinfo.json-file.md)
+If you want to know more about this file, how to add an icon, what is the excludedFiles field etc, click below.[The modinfo.json file/modding-tutorials/how-to-create-a-mod-project/the-modinfo.json-file‌](broken-reference)
 
 **8)** Now that you know how to write your mod and how to change its information to build it, simply generate the visual studio project and our build script will automatically pack/build your mod as shown below. The build script will generate a new file named `YourModName.rmod` This file is the mod file to upload on our [site](https://www.greenhellmodding.com/) and to put in the mods folder.‌
 

@@ -1,20 +1,22 @@
 ---
-description: When the software doesn't do what it should...
+description: This page is outdated and will be rewritten soon.
 ---
 
 # Troubleshooting
 
-If installing the mod loader is not working as expected, don't worry. Please take a look at the following document which describes some of the more common issues with installing the mod loader. If none of this works, please join our [Discord server](https://raftmodding.com/discord) or contact us via [E-Mail](https://raftmodding.com/contact) and we will be happy to help you!
+{% hint style="danger" %}
+## THIS PAGE IS OUTDATED. NEW PAGE SOON.
+{% endhint %}
+
+If installing the mod loader is not working as expected, don't worry. Please take a look at the following document which describes some of the more common issues with installing the mod loader. If none of this works, please join our [Discord](https://raftmodding.com/discord) and we will be happy to help you!
 
 ## What's wrong?
 
 First of all, we need to find out what's the problem. Which of the following descriptions describes your problem best? If an error popped up, try to find the headline with the text describing the error.
 
-* [The menu inside the game does not show up](https://api.raftmodding.com/tutorials/how-to-install-raftmodloader/troubleshooting#menu-not-showing-up)
-* [I'm getting a CA3 error](https://api.raftmodding.com/tutorials/how-to-install-raftmodloader/troubleshooting#ca-3-dxa)
-* [I'm getting a DXA Rendering issue](https://api.raftmodding.com/tutorials/how-to-install-raftmodloader/troubleshooting#ca-3-dxa)
-* ['The downloaded file has been corrupted'](https://api.raftmodding.com/tutorials/how-to-install-raftmodloader/troubleshooting#corrupted)
-* [Other / My problem could not be solved with this guide](https://api.raftmodding.com/tutorials/how-to-install-raftmodloader/troubleshooting#other)
+* The menu inside the game does not show up
+* 'The downloaded file has been corrupted'
+* Other / My problem could not be solved with this guide
 
 ## 'The menu inside the game does not show up' <a href="#menu-not-showing-up" id="menu-not-showing-up"></a>
 
@@ -45,10 +47,6 @@ Now, close the Settings by clicking the gear :gear: again and press `Play` to st
 #### 5. Did it work?
 
 If this worked, you should now see the modding menu inside the game. If you can not see the grey menu as shown below, please go back to step 3 and try to change the Starting Method to `Executable`.
-
-## 'I'm getting a CA3 error' or 'DXA Rendering Issues' <a href="#ca-3-dxa" id="ca-3-dxa"></a>
-
-This is a problem with Raft itself, which unfortunately requires manual action. Please visit the official [Raft Discord server](https://discord.gg/raft) and send @ModMail a message. A moderator will take a look at your problem.
 
 ## 'The downloaded file has been corrupted' <a href="#corrupted" id="corrupted"></a>
 

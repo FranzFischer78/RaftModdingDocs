@@ -1,4 +1,8 @@
-# 🗒 Slugs
+---
+description: Mod slugs are the mods identifiers that ends in the mod url.
+---
+
+# Mod Slugs (Unique Identifier)
 
 Slugs are strings that can be used in URLs. Slugs must fulfill all of the following rules:
 

@@ -1,6 +1,6 @@
-# ✅ Getting access to the modding repositories
+# Getting access to the modding repositories
 
-In order to make a mod, it is essential to understand how the game works under the hood. Therefore, you can use tools like [dnSpy](https://github.com/dnSpy/dnSpy) (to decompile the game's code) or [uTinyRipper ](https://github.com/mafaca/UtinyRipper)(to export the game's assets). However, the results of those tools are usually not ideal and need to be fixed up in some places.
+In order to make a mod, it is essential to understand how the game works under the hood. Therefore, you can use tools like [dnSpy](https://github.com/dnSpy/dnSpy) (to decompile the game's code) or [AssetRipper](https://github.com/AssetRipper/AssetRipper) (to export the game's assets). However, the results of those tools are usually not ideal and need to be fixed up in some places.
 
 That's why we are uploading the exported contents of the game for every update to repositories at gitlab.com.
 
@@ -9,7 +9,7 @@ That's why we are uploading the exported contents of the game for every update t
 There are two repositories available:
 
 * The [raft-code](https://gitlab.com/traxam/raft-code) repository contains the decompiled code of the game. It is not possible to compile this code and you won't be able to link your mods agains this code. The purpose of the repository is to provide a "reference" decompilation so that we can talk about certain line numbers in the original code (i.e. by linking to a certain line number in a certain file via the GitLab web frontend). GitLab also provides a useful search function.
-* The [raft-unity-project](https://gitlab.com/traxam/raft-unity-project) repository contains an optimized export of the game's unity assets. You can [open the repository with a specific (!) version of the Unity Editor](https://gitlab.com/traxam/raft-unity-project/-/wikis/Setup) to take a look at Raft's textures, prefabs, scenes, etc. and you will need to use the Unity Editor with this repository if you want to [create AssetBundles](how-to-create-an-assetbundle.md) to add new content to the game. The raft-unity-project contains stubbed scripts (that means that only properties and fields of the scripts are available and methods are not) to avoid Unity complaining about compilation errors.
+* The [raft-unity-project](https://gitlab.com/traxam/raft-unity-project) repository contains an optimized export of the game's unity assets. You can [open the repository with a specific (!) version of the Unity Editor](https://gitlab.com/traxam/raft-unity-project/-/wikis/Setup) to take a look at Raft's textures, prefabs, scenes, etc. and you will need to use the Unity Editor with this repository if you want to [create AssetBundles](broken-reference) to add new content to the game. The raft-unity-project contains stubbed scripts (that means that only properties and fields of the scripts are available and methods are not) to avoid Unity complaining about compilation errors.
 
 {% hint style="danger" %}
 You can neither compile the raft-code nor the raft-unity-project into a working game!

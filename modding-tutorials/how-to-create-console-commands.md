@@ -1,10 +1,10 @@
 ---
 description: >-
-  This tutorial aims to show you how to create custom console commands using the
-  new console attributes.
+  This tutorial is intended to guide you through creating custom console
+  commands using the new console attributes.
 ---
 
-# 📘 How to create console commands
+# How to create console commands
 
 Console commands are method attributes, that means that you just have to add `[ConsoleCommand(name: "...", docs:"...")]` or `[ConsoleCommand("...","...")]` above your method.\
 The **name** argument is the command name itself.\
