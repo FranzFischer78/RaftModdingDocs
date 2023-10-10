@@ -7,4 +7,12 @@ description: >-
 
 # Mod
 
-THIS WILL BE MADE DYNAMIC IN THE NEXT FEW HOURS.
+## Unloads your mod.
+
+{% tabs %}
+{% tab title="Method" %}
+```csharp
+// Mod.UnloadMod()
+public virtual void UnloadMod()
+```
+{% endtab %}
