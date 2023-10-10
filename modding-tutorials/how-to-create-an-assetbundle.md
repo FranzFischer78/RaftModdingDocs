@@ -11,7 +11,7 @@ For this tutorial you will need the same requirements as the first tutorial.
 
 **1)** First, create a new Unity project with the same version as the one required in [**How to create a mod project**](https://api.raftmodding.com/modding-tutorials/how-to-create-a-mod-project).
 
-**2)** Then once the first step is done, download [this file](https://www.raftmodding.com/TeKGameRMods/AssetBundleBuilderByTeK.zip) and place it into your Unity Project as shown below. This will allow you to build your asset bundle file. &#x20;
+**2)** Then once the first step is done, download [this file](https://fastdl.raftmodding.com/AssetBundleBuilder.zip) and place it into your Unity Project as shown below. This will allow you to build your asset bundle file. &#x20;
 
 <div align="left">
 
