@@ -15,7 +15,7 @@ For this tutorial you will need the same requirements as the first tutorial.
 
 <div align="left">
 
-<img src="../.gitbook/assets/1 (1).PNG" alt="">
+<img src="../.gitbook/assets/b2.png" alt="">
 
 </div>
 
@@ -31,7 +31,7 @@ For this tutorial you will need the same requirements as the first tutorial.
 
 <div align="left">
 
-<img src="../.gitbook/assets/2.PNG" alt="">
+<img src="../.gitbook/assets/bundle.png" alt="">
 
 </div>
 
