@@ -6,7 +6,7 @@ description: >-
 
 # Windows Defender
 
-Go into Windows Security -> Virus & threat protection. Then click on "Manage settings" under "Virus & threat protection settings:
+Go into "Windows Security" -> "Virus & threat protection". Then click on "Manage settings" under "Virus & threat protection settings":
 
 <div align="left">
 
@@ -22,9 +22,9 @@ Scroll down to Exclusions and click on "Add or remove exclusions":&#x20;
 
 </div>
 
-Click on "Add an exclusion" -> "File" then select the RMLLauncher.exe.
+Click on "Add an exclusion" -> "File" then select the **RMLLauncher.exe**.
 
-Do that again but instead of selecting "File" you now want to select "Folder" and exclude the RaftModLoader folder which is located at **C:\Users\YourUserName\AppData\Roaming\RaftModLoader** .
+Do that again but instead of selecting "File" you now want to select "Folder" and exclude the **RaftModLoader** folder which is located at **C:\Users\YourUserName\AppData\Roaming\RaftModLoader** .
 
 This is how the exclusions should look like in the end:
 

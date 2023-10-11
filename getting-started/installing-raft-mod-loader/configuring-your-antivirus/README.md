@@ -50,7 +50,7 @@ Select your Antivirus from the list below to get a detailed guide:
 
 
 
-Your antivirus is not on the list? Search on google **"how to add exclusions in \[Your antivirus name...]"** and there should be a support website from that antivirus explaining how to do it.&#x20;
+Your antivirus is not on the list? Search on google **"how to add exclusions in \[Your antivirus name...]"** and there should be a support website from that antivirus explaining how to do it. You will have to add both exceptions [mentioned above ](./#1.-adding-exclusions-in-your-antivirus):point\_up:
 
 
 
