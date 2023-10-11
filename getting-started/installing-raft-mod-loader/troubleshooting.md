@@ -5,7 +5,7 @@ description: This page is outdated and will be rewritten soon.
 # Troubleshooting
 
 {% hint style="danger" %}
-## THIS PAGE IS OUTDATED. NEW PAGE SOON.
+### THIS PAGE IS OUTDATED. NEW PAGE SOON.
 {% endhint %}
 
 If installing the mod loader is not working as expected, don't worry. Please take a look at the following document which describes some of the more common issues with installing the mod loader. If none of this works, please join our [Discord](https://raftmodding.com/discord) and we will be happy to help you!
@@ -68,7 +68,7 @@ In the following, we will **verify the files' integrity**. This is a Steam tool 
 5. If the tool finds any broken files, it will automatically repair them.
 6. Once done, you can close the windows.
 7. Now, try to open the Launcher again.
-8. Does it work now? If the error keeps coming up, this might be related to your Antivirus program.&#x20;
+8. Does it work now? If the error keeps coming up, this might be related to your Antivirus program.
 
 _For visual guidance, check out the_ [_Steam Support article_](https://support.steampowered.com/kb\_article.php?ref=2037-QEUH-3335) _about this topic._
 
