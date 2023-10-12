@@ -13,6 +13,7 @@
     * [Bitdefender](getting-started/installing-raft-mod-loader/configuring-your-antivirus/bitdefender.md)
     * [Avast](getting-started/installing-raft-mod-loader/configuring-your-antivirus/avast.md)
     * [Norton](getting-started/installing-raft-mod-loader/configuring-your-antivirus/norton.md)
+    * [AVG](getting-started/installing-raft-mod-loader/configuring-your-antivirus/avg.md)
 * [Installing a mod](getting-started/installing-a-mod/README.md)
   * [Mods in multiplayer](getting-started/installing-a-mod/mods-in-multiplayer.md)
 * [How to run multiple raft instances](getting-started/how-to-run-multiple-raft-instances.md)

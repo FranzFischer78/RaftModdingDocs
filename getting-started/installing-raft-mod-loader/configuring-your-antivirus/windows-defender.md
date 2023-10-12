@@ -10,7 +10,7 @@ Go into "Windows Security" -> "Virus & threat protection". Then click on "Manage
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/grafik (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,7 +18,7 @@ Scroll down to Exclusions and click on "Add or remove exclusions":&#x20;
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/grafik (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ This is how the exclusions should look like in the end:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/grafik (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

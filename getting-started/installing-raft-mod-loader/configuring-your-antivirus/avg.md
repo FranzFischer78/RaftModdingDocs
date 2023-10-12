@@ -1,18 +1,18 @@
 ---
-description: Explaining how to exclude the Raft Mod Loader from the Avast antivirus
+description: Explaining how to exclude the Raft Mod Loader from the AVG antivirus
 ---
 
-# Avast
+# AVG
 
-Open Avast then click on "Menu" in the top right and select "Settings":
+Open AVG then click on "Menu" in the top right and select "Settings":
 
-<figure><img src="../../../.gitbook/assets/grafik (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (5).png" alt=""><figcaption></figcaption></figure>
 
 Go into the "General" then "Exceptions" tab:
 
 <figure><img src="../../../.gitbook/assets/grafik (6).png" alt=""><figcaption></figcaption></figure>
 
-Now click on "Add Exception"-> "Browse". It is a bit tedious to select exceptions as you need to check the box next to the File/Folder. First you select the **RMLLauncher.exe :**&#x20;
+Now click on "Add Exception"-> "Browse". It is a bit tedious to select exceptions as you need to check the Box next to the File/Folder. First you select the **RMLLauncher.exe :**&#x20;
 
 <figure><img src="../../../.gitbook/assets/grafik (7).png" alt=""><figcaption></figcaption></figure>
 
