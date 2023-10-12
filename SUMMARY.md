@@ -5,7 +5,13 @@
 ## ⬇ Getting started
 
 * [Installing Raft Mod Loader](getting-started/installing-raft-mod-loader/README.md)
-  * [Troubleshooting](getting-started/installing-raft-mod-loader/troubleshooting.md)
+  * [Troubleshooting](getting-started/installing-raft-mod-loader/troubleshooting/README.md)
+    * [An error occured while...](getting-started/installing-raft-mod-loader/troubleshooting/an-error-occured-while.../README.md)
+      * [Disabling IPV6](getting-started/installing-raft-mod-loader/troubleshooting/an-error-occured-while.../disabling-ipv6.md)
+      * [Changing the DNS](getting-started/installing-raft-mod-loader/troubleshooting/an-error-occured-while.../changing-the-dns.md)
+    * [The menu inside the game...](getting-started/installing-raft-mod-loader/troubleshooting/the-menu-inside-the-game....md)
+    * [The game crashes on...](getting-started/installing-raft-mod-loader/troubleshooting/the-game-crashes-on....md)
+    * [There's an error counter...](getting-started/installing-raft-mod-loader/troubleshooting/theres-an-error-counter....md)
   * [Linux Installation](getting-started/installing-raft-mod-loader/linux-installation.md)
   * [Configuring your antivirus](getting-started/installing-raft-mod-loader/configuring-your-antivirus/README.md)
     * [Windows Defender](getting-started/installing-raft-mod-loader/configuring-your-antivirus/windows-defender.md)

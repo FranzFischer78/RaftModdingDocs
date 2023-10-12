@@ -59,6 +59,6 @@ Now, **you are ready to install some actual mods**.
 
 If something isn't working as expected, maybe take a look at our troubleshooting guide:
 
-{% content-ref url="troubleshooting.md" %}
-[troubleshooting.md](troubleshooting.md)
+{% content-ref url="troubleshooting/" %}
+[troubleshooting](troubleshooting/)
 {% endcontent-ref %}

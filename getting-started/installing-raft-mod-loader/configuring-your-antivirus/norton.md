@@ -8,7 +8,7 @@ First let's add the exception to the Norton Antivirus:
 
 Open Norton then go to "Settings"-> "Scans and Risks" and scroll down to "Exclusions/Low risks":
 
-<figure><img src="../../../.gitbook/assets/grafik.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (3).png" alt=""><figcaption></figcaption></figure>
 
 At "Items to Exclude from Scans", click on "Configure"->"Add Files":
 
@@ -16,7 +16,7 @@ At "Items to Exclude from Scans", click on "Configure"->"Add Files":
 
 Add an exception for the **RMLLauncher.exe** you downloaded:
 
-<figure><img src="../../../.gitbook/assets/grafik (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As well as for the **HMLCore.exe** located in **C:\Users\YourUserName\AppData\Roaming\RaftModLoader .**
 
@@ -24,11 +24,11 @@ Then click on "Add Folders" to add an exception for the entire **RaftModLoader**
 
 This is what your exceptions should look like. Confirm by hitting "Apply" then "Ok":
 
-<figure><img src="../../../.gitbook/assets/grafik (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now add the exact same exceptions for "Items to Exclude from Auto-Protect, Script Control, Behavioral Protection and Download Intelligence Detection":
 
-<figure><img src="../../../.gitbook/assets/grafik (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 After you're done hit "Apply" and then "Ok":&#x20;
 
