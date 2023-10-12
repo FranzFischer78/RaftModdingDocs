@@ -6,7 +6,7 @@
 
 * [Installing Raft Mod Loader](getting-started/installing-raft-mod-loader/README.md)
   * [Troubleshooting](getting-started/installing-raft-mod-loader/troubleshooting/README.md)
-    * [An error occured while fetchting for updates](getting-started/installing-raft-mod-loader/troubleshooting/an-error-occured-while-fetchting-for-updates/README.md)
+    * [An error occured while fetching for updates](getting-started/installing-raft-mod-loader/troubleshooting/an-error-occured-while-fetchting-for-updates/README.md)
       * [Disabling IPV6](getting-started/installing-raft-mod-loader/troubleshooting/an-error-occured-while-fetchting-for-updates/disabling-ipv6.md)
       * [Changing the DNS](getting-started/installing-raft-mod-loader/troubleshooting/an-error-occured-while-fetchting-for-updates/changing-the-dns.md)
     * [The menu inside the game doesn't show up](getting-started/installing-raft-mod-loader/troubleshooting/the-menu-inside-the-game-doesnt-show-up.md)
