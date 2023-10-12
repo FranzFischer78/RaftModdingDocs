@@ -5,7 +5,13 @@
 ## ⬇ Getting started
 
 * [Installing Raft Mod Loader](getting-started/installing-raft-mod-loader/README.md)
-  * [Troubleshooting](getting-started/installing-raft-mod-loader/troubleshooting.md)
+  * [Troubleshooting](getting-started/installing-raft-mod-loader/troubleshooting/README.md)
+    * [An error occured while fetchting for updates](getting-started/installing-raft-mod-loader/troubleshooting/an-error-occured-while-fetchting-for-updates/README.md)
+      * [Disabling IPV6](getting-started/installing-raft-mod-loader/troubleshooting/an-error-occured-while-fetchting-for-updates/disabling-ipv6.md)
+      * [Changing the DNS](getting-started/installing-raft-mod-loader/troubleshooting/an-error-occured-while-fetchting-for-updates/changing-the-dns.md)
+    * [The menu inside the game doesn't show up](getting-started/installing-raft-mod-loader/troubleshooting/the-menu-inside-the-game-doesnt-show-up.md)
+    * [The game crashes on startup](getting-started/installing-raft-mod-loader/troubleshooting/the-game-crashes-on-startup.md)
+    * [There are error notifications in-game](getting-started/installing-raft-mod-loader/troubleshooting/there-are-error-notifications-in-game.md)
   * [Linux Installation](getting-started/installing-raft-mod-loader/linux-installation.md)
   * [Configuring your antivirus](getting-started/installing-raft-mod-loader/configuring-your-antivirus/README.md)
     * [Windows Defender](getting-started/installing-raft-mod-loader/configuring-your-antivirus/windows-defender.md)
@@ -13,6 +19,7 @@
     * [Bitdefender](getting-started/installing-raft-mod-loader/configuring-your-antivirus/bitdefender.md)
     * [Avast](getting-started/installing-raft-mod-loader/configuring-your-antivirus/avast.md)
     * [Norton](getting-started/installing-raft-mod-loader/configuring-your-antivirus/norton.md)
+    * [AVG](getting-started/installing-raft-mod-loader/configuring-your-antivirus/avg.md)
 * [Installing a mod](getting-started/installing-a-mod/README.md)
   * [Mods in multiplayer](getting-started/installing-a-mod/mods-in-multiplayer.md)
 * [How to run multiple raft instances](getting-started/how-to-run-multiple-raft-instances.md)
