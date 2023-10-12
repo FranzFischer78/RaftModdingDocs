@@ -2,7 +2,7 @@
 description: Fixing the issue of the error counter going up in the bottom right hand corner
 ---
 
-# There's an error counter...
+# There are error notifications in-game
 
 In the following, we will **verify the files' integrity**. This is a Steam tool that allows checks and repairs broken game files.
 
@@ -18,5 +18,5 @@ In the following, we will **verify the files' integrity**. This is a Steam tool 
 _For visual guidance, check out the_ [_Steam Support article_](https://support.steampowered.com/kb\_article.php?ref=2037-QEUH-3335) _about this topic._
 
 {% hint style="info" %}
-If you can't solve this problem with this guide, make sure to [contact us](theres-an-error-counter....md#other) and we'll be happy to help you.
+If you can't solve this problem with this guide, make sure to [contact us](there-are-error-notifications-in-game.md#other) and we'll be happy to help you.
 {% endhint %}
