@@ -10,19 +10,19 @@ Open Avast then click on "Menu" in the top right and select "Settings":
 
 Go into the "General" then "Exceptions" tab:
 
-<figure><img src="../../../.gitbook/assets/grafik (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now click on "Add Exception"-> "Browse". It is a bit tedious to select exceptions as you need to check the box next to the File/Folder. First you select the **RMLLauncher.exe :**&#x20;
 
-<figure><img src="../../../.gitbook/assets/grafik (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 And then you select the **RaftModLoader** folder which is located at **C:\Users\YourUserName\AppData\Roaming\RaftModLoader**:
 
-<figure><img src="../../../.gitbook/assets/grafik (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once both are selected hit "Ok". Then "Add Exception":
 
-<figure><img src="../../../.gitbook/assets/grafik (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/grafik (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now click on "Add Exception" again:
 

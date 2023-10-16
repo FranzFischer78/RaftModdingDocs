@@ -35,7 +35,7 @@ This is what it should look like...\
 
 <summary><a href="the-game-crashes-on-startup.md">The game crashes on startup</a></summary>
 
-![](<../../../.gitbook/assets/grafik (2).png>)
+![](<../../../.gitbook/assets/grafik (2) (1).png>)
 
 [Link to the guide](the-game-crashes-on-startup.md)
 

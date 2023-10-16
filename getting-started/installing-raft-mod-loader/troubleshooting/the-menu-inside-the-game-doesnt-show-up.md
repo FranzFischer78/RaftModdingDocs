@@ -2,7 +2,7 @@
 description: This guide aims to fix an issue where the mod menu doesn't appear in-game
 ---
 
-# The menu inside the game...
+# The menu inside the game doesn't show up
 
 ## The menu inside the game does not show up <a href="#menu-not-showing-up" id="menu-not-showing-up"></a>
 
@@ -38,5 +38,5 @@ If this worked, you should now see the modding menu inside the game. If you can 
 [configuring-your-antivirus](../configuring-your-antivirus/)
 {% endcontent-ref %}
 
-<figure><img src="../../../.gitbook/assets/spaces_bUQfC6JPDbsyAF18yxAF_uploads_git-blob-7aef095370dfe2cdb137ac1bd808bf79177e001a_image (4).png" alt=""><figcaption><p>The mod menu inside of the game</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/spaces_bUQfC6JPDbsyAF18yxAF_uploads_git-blob-7aef095370dfe2cdb137ac1bd808bf79177e001a_image (4) (1).png" alt=""><figcaption><p>The mod menu inside of the game</p></figcaption></figure>
 
