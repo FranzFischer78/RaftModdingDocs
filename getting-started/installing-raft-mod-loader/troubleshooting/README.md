@@ -14,7 +14,7 @@ First of all, we need to find out what's the problem. Which of the following des
 
 <summary><a href="the-menu-inside-the-game-doesnt-show-up.md">The menu inside the game does not show up</a></summary>
 
-![](<../../../.gitbook/assets/spaces\_bUQfC6JPDbsyAF18yxAF\_uploads\_xPvkkimxa4xwSDpaKPAs\_spaces\_bUQfC6JPDbsyAF18yxAF\_uploads\_git-blob-7aef095370dfe2cdb137ac1bd808bf79177e001a\_image (4) (1).webp>)\
+![](<../../../.gitbook/assets/spaces_bUQfC6JPDbsyAF18yxAF_uploads_xPvkkimxa4xwSDpaKPAs_spaces_bUQfC6JPDbsyAF18yxAF_uploads_git-blob-7aef095370dfe2cdb137ac1bd808bf79177e001a_image (4) (1).webp>)\
 This is what it should look like...\
 \
 [Link to the guide](the-menu-inside-the-game-doesnt-show-up.md)
@@ -35,7 +35,7 @@ This is what it should look like...\
 
 <summary><a href="the-game-crashes-on-startup.md">The game crashes on startup</a></summary>
 
-![](<../../../.gitbook/assets/grafik (2) (1).png>)
+![](<../../../.gitbook/assets/grafik (2) (2).png>)
 
 [Link to the guide](the-game-crashes-on-startup.md)
 
@@ -45,7 +45,7 @@ This is what it should look like...\
 
 <summary><a href="there-are-error-notifications-in-game.md">There's an error counter going up very fast in the bottom right hand corner of the game</a></summary>
 
-![](<../../../.gitbook/assets/spaces\_bUQfC6JPDbsyAF18yxAF\_uploads\_vspSxch6LUa4kwU4xcRc\_grafik (1).webp>)
+![](<../../../.gitbook/assets/spaces_bUQfC6JPDbsyAF18yxAF_uploads_vspSxch6LUa4kwU4xcRc_grafik (1).webp>)
 
 [Link to the guide](there-are-error-notifications-in-game.md)
 

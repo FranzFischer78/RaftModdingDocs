@@ -38,5 +38,5 @@ If this worked, you should now see the modding menu inside the game. If you can 
 [configuring-your-antivirus](../configuring-your-antivirus/)
 {% endcontent-ref %}
 
-<figure><img src="../../../.gitbook/assets/spaces_bUQfC6JPDbsyAF18yxAF_uploads_git-blob-7aef095370dfe2cdb137ac1bd808bf79177e001a_image (4) (1).png" alt=""><figcaption><p>The mod menu inside of the game</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/spaces_bUQfC6JPDbsyAF18yxAF_uploads_git-blob-7aef095370dfe2cdb137ac1bd808bf79177e001a_image (4).png" alt=""><figcaption><p>The mod menu inside of the game</p></figcaption></figure>
 

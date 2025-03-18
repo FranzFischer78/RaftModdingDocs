@@ -6,7 +6,7 @@ description: Installing the mod loader on Linux or the Steam Deck using Wine
 
 ## 0. Get Raft
 
-Go to your Windows PC, find the Raft installation folder (explained [here](https://support.steampowered.com/kb\_article.php?ref=7418-YUBN-8129)) and copy it over to your Linux computer. On my desktop it's placed in `~/Desktop/Raft`, so change the paths accordingly to where yours is located.
+Go to your Windows PC, find the Raft installation folder (explained [here](https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129)) and copy it over to your Linux computer. On my desktop it's placed in `~/Desktop/Raft`, so change the paths accordingly to where yours is located.
 
 ### 1. Download the Launcher
 

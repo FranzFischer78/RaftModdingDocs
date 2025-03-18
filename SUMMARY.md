@@ -2,7 +2,7 @@
 
 * [Welcome to the RaftModding docs!](README.md)
 
-## ⬇ Getting started
+## ⬇️ Getting started
 
 * [Installing Raft Mod Loader](getting-started/installing-raft-mod-loader/README.md)
   * [Troubleshooting](getting-started/installing-raft-mod-loader/troubleshooting/README.md)
@@ -12,7 +12,7 @@
     * [The menu inside the game doesn't show up](getting-started/installing-raft-mod-loader/troubleshooting/the-menu-inside-the-game-doesnt-show-up.md)
     * [The game crashes on startup](getting-started/installing-raft-mod-loader/troubleshooting/the-game-crashes-on-startup.md)
     * [There are error notifications in-game](getting-started/installing-raft-mod-loader/troubleshooting/there-are-error-notifications-in-game.md)
-  * [Linux or Steam Deck installation](getting-started/installing-raft-mod-loader/linux-installation/README.md)
+  * [Linux or Steam Deck installation](getting-started/installing-raft-mod-loader/linux-installation.md)
     * [Using Bottles](getting-started/installing-raft-mod-loader/linux-installation/using-bottles.md)
     * [Using Wine](getting-started/installing-raft-mod-loader/linux-installation/using-wine.md)
   * [Configuring your antivirus](getting-started/installing-raft-mod-loader/configuring-your-antivirus/README.md)
@@ -26,7 +26,7 @@
   * [Mods in multiplayer](getting-started/installing-a-mod/mods-in-multiplayer.md)
 * [How to run multiple raft instances](getting-started/how-to-run-multiple-raft-instances.md)
 
-## ⚙ MODDING TUTORIALS
+## ⚙️ MODDING TUTORIALS
 
 * [How to create a mod project](modding-tutorials/how-to-create-a-mod-project/README.md)
   * [The modinfo.json file](modding-tutorials/how-to-create-a-mod-project/the-modinfo.json-file.md)
@@ -35,7 +35,7 @@
 * [Harmony basics](modding-tutorials/harmony-basics.md)
 * [Getting access to the modding repositories](modding-tutorials/getting-access-to-the-modding-repositories.md)
 
-## ⚒ Modding API
+## ⚒️ Modding API
 
 * [RAPI](modding-api/rapi.md)
 * [Mod](modding-api/mod.md)
@@ -55,6 +55,6 @@
 
 * [Mod Slugs (Unique Identifier)](website/mod-slugs-unique-identifier.md)
 
-## 🖥 RAFT DEDICATED SERVER
+## 🖥️ RAFT DEDICATED SERVER
 
 * [Raft Dedicated Server](raft-dedicated-server/raft-dedicated-server.md)

@@ -16,7 +16,7 @@ Now let's get started :)
 2.  Now let's create a new custom Bottle running on Soda:\
 
 
-    <figure><img src="../../../.gitbook/assets/grafik (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/grafik (35).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Once the Bottle is created, open it and click on dependencies:\
@@ -42,34 +42,34 @@ Now let's get started :)
 5.  Download the game on steam as usual and see if it runs. If the game or steam fails to start, try enabling dxvk in the bottle's settings (this can also be useful to improve the performance in general):\
 
 
-    <figure><img src="../../../.gitbook/assets/grafik (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/grafik (30).png" alt=""><figcaption></figcaption></figure>
 
     If that still doesn't fix it (mostly on steam decks), try disabling steam runtime in the compatibility settings: \
 
 
-    <figure><img src="../../../.gitbook/assets/grafik (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/grafik (31).png" alt=""><figcaption></figcaption></figure>
 
 
 6.  Next we need to do one last thing before we're set. Back in the main menu of the Bottle, scroll down to "Legacy Wine tools" and open "Configuration":\
 
 
-    <figure><img src="../../../.gitbook/assets/grafik (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/grafik (32).png" alt=""><figcaption></figcaption></figure>
 
     Then head over to the "Libraries" tab and enter the following in the field under "New override for Library": "\*winhttp"\
     \
-    ![](<../../../.gitbook/assets/grafik (6).png>)\
+    ![](<../../../.gitbook/assets/grafik (33).png>)\
     \
     Click on "Add" -> "Apply" -> "Ok".
 7.  Aaaand you're set! Now you just need to run the "RMLLauncher.exe" by clicking on "Run Executable": \
 
 
-    <figure><img src="../../../.gitbook/assets/grafik (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/grafik (34).png" alt=""><figcaption></figcaption></figure>
 
 
 8.  **ENJOY!!!**\
 
 
-    <figure><img src="../../../.gitbook/assets/spaces_bUQfC6JPDbsyAF18yxAF_uploads_git-blob-7aef095370dfe2cdb137ac1bd808bf79177e001a_image (4).png" alt=""><figcaption><p>The Raft Mod Loader main menu</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/spaces_bUQfC6JPDbsyAF18yxAF_uploads_git-blob-7aef095370dfe2cdb137ac1bd808bf79177e001a_image (4) (1).png" alt=""><figcaption><p>The Raft Mod Loader main menu</p></figcaption></figure>
 
 
 
