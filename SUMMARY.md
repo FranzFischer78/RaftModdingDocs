@@ -13,8 +13,6 @@
     * [The game crashes on startup](getting-started/installing-raft-mod-loader/troubleshooting/the-game-crashes-on-startup.md)
     * [There are error notifications in-game](getting-started/installing-raft-mod-loader/troubleshooting/there-are-error-notifications-in-game.md)
   * [Linux or Steam Deck installation](getting-started/installing-raft-mod-loader/linux-installation.md)
-    * [Using Bottles](getting-started/installing-raft-mod-loader/linux-installation/using-bottles.md)
-    * [Using Wine](getting-started/installing-raft-mod-loader/linux-installation/using-wine.md)
   * [Configuring your antivirus](getting-started/installing-raft-mod-loader/configuring-your-antivirus/README.md)
     * [Windows Defender](getting-started/installing-raft-mod-loader/configuring-your-antivirus/windows-defender.md)
     * [Malwarebytes](getting-started/installing-raft-mod-loader/configuring-your-antivirus/malwarebytes.md)
