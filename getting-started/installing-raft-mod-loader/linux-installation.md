@@ -8,9 +8,11 @@ description: >-
 
 Setting up Raft Mod Loader is now easier than ever due to the proton compatibility layer built into Steam. This guide aims to show you how you can achieve this on your own Linux-based machine.
 
-First, a starting note for the Steam Deck users: To access the Linux Desktop on the Steam Deck do the following: [https://help.steampowered.com/en/faqs/view/0872-C5FA-C31E-FE63](https://help.steampowered.com/en/faqs/view/0872-C5FA-C31E-FE63)
+First, a starting note for the Steam Deck users:\
+To access the Linux Desktop on the Steam Deck do the following: [https://help.steampowered.com/en/faqs/view/0872-C5FA-C31E-FE63](https://help.steampowered.com/en/faqs/view/0872-C5FA-C31E-FE63)
 
-Another general note: the install button on the Raftmodding website unfortunately does not work, so you will have to add the mods to the mod folder manually.
+Another general note:\
+The install button on the Raftmodding website unfortunately does not work, so you will have to add the mods to the mod folder manually.
 
 Now let's get started 😊
 
@@ -26,7 +28,7 @@ The .steam folder will be hidden if you have 'Show Hidden Files' disabled in you
 
 The Raft folder should now look like this:
 
-<figure><img src="../../.gitbook/assets/546484415-16e3e085-3d6a-42ec-a34e-1fce701a7a47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/grafik (37).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Setting up the launch parameters inside of Steam
 
@@ -46,7 +48,9 @@ Now startup Raft on Steam. The game should start up as usual. Close it is done s
 
 Go back into your Raft game directory. There should now be a new file called 'target'. Open the file and replace Raft.exe with RMLLauncher.exe as seen below
 
-
+```
+/path/to/game/RMLLauncher.exe
+```
 
 ### 4. Launching the game with mods
 
@@ -63,3 +67,7 @@ If you encounter any issues or the guide doesn't seem to work for you, please vi
 \
 Our team is more than happy to assist you. 🙂
 {% endhint %}
+
+#### Credits
+
+This guide was made with the help of @xenozma. Feel free to ask them for assistance on the Raftmodding Discord regarding this guide.&#x20;
