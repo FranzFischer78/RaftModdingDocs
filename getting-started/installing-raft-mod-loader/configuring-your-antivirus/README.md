@@ -10,7 +10,7 @@ description: >-
 
 {% hint style="success" %}
 **RMLLauncher is completely safe to use.**\
-_It's important to note that both RMLLauncher and Core are open-sourced, allowing users to analyze the code._
+&#xNAN;_&#x49;t's important to note that both RMLLauncher and Core are open-sourced, allowing users to analyze the code._
 {% endhint %}
 
 Our launcher behavior might seem unusual to antivirus programs because it involves downloading files, loading code into the game and connects to servers.\

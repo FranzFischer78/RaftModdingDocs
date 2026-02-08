@@ -3,7 +3,7 @@
 Modifying private variables is clearly necessary when modding raft. Let's see how easy it is!
 
 To modify private variables we need to use **Harmony**. You can visit the Harmony wiki by clicking [here](https://github.com/pardeike/Harmony/wiki).\
-_`Harmony is a library for patching, replacing and decorating .NET and Mono methods during runtime.`_\
+&#xNAN;_`Harmony is a library for patching, replacing and decorating .NET and Mono methods during runtime.`_\
 \
 To use harmony you simply need to add the `HarmonyLib` namespace by adding `using HarmonyLib;` at the top of your class.
 

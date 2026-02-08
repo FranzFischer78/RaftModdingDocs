@@ -6,19 +6,13 @@ description: >-
 
 # Changing the DNS
 
-1\. Let's check if that's the issue first. **Open your command prompt** by **typing CMD** in the Cortana search bar for example and **select "Run as administrator"**:\
-
+1\. Let's check if that's the issue first. **Open your command prompt** by **typing CMD** in the Cortana search bar for example and **select "Run as administrator"**:<br>
 
 <figure><img src="../../../../.gitbook/assets/grafik (27).png" alt=""><figcaption></figcaption></figure>
 
-2\. **Run the following commands**: `nslookup raftmodding.com` and `nslookup raftmodding.com 8.8.8.8`\
+2\. **Run the following commands**: `nslookup raftmodding.com` and `nslookup raftmodding.com 8.8.8.8`<br>
 
-
-<div align="left">
-
-<figure><img src="../../../../.gitbook/assets/nslookup commd.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/nslookup commd.png" alt=""><figcaption></figcaption></figure></div>
 
 If the ip adresses are different that means that there's an issue with the DNS and it might be blocking the Raftmodding requests.\
 \
