@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the RaftModding docs! a](README.md)
+* [Welcome to the RaftModding docs!](README.md)
 
 ## ⬇️ Getting started
 
