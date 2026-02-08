@@ -13,40 +13,28 @@ For this tutorial you will need the same requirements as the first tutorial.
 
 **2)** Then once the first step is done, download [this file](https://fastdl.raftmodding.com/AssetBundleBuilder.zip) and place it into your Unity Project as shown below. This will allow you to build your asset bundle file. &#x20;
 
-<div align="left">
-
-<img src="../.gitbook/assets/b2.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/b2.png" alt=""></div>
 
 **3)** Add your stuff to the asset bundle as shown below.
 
-<div align="left">
-
-<img src="../.gitbook/assets/oof.gif" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/oof.gif" alt=""></div>
 
 **4)** Once you have everything in your assetbundle, build it by right clicking anywhere and clicking on **Build AssetBundles** as shown below. &#x20;
 
-<div align="left">
-
-<img src="../.gitbook/assets/bundle.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/bundle.png" alt=""></div>
 
 **5)** If your assetbundle has succeeded building you should be able to find it in **Assets/AssetBundles**; Once you found it, copy it into your mod project folder where your .cs files and your modinfo.json file are located as shown below. &#x20;
 
 ![](<../.gitbook/assets/image (12) (1).png>)
 
-**6)** Now let's load it into the game using our previous mod made in the [**How to create a mod project** ](broken-reference)tutorial. Open your mod project and change your start method type from **`void`** to **`IEnumerator`** and copy the code below into the start method as shown below; You will also need to create a new variable in your mod to be able to access the asset bundle from anywhere in your mod.
+**6)** Now let's load it into the game using our previous mod made in the [**How to create a mod project** ](/broken/pages/-LsvNk4tyEtVAYhXMtB8)tutorial. Open your mod project and change your start method type from **`void`** to **`IEnumerator`** and copy the code below into the start method as shown below; You will also need to create a new variable in your mod to be able to access the asset bundle from anywhere in your mod.
 
 {% tabs %}
 {% tab title="Help Image" %}
 ![](<../.gitbook/assets/image (8) (1).png>)
 
 {% hint style="info" %}
-If**`IEnumerator`** is underlined in red, simply add **`using System.Collections;`**at the top of your mod file.
+I&#x66;**`IEnumerator`** is underlined in red, simply add **`using System.Collections;`**&#x61;t the top of your mod file.
 {% endhint %}
 {% endtab %}
 
@@ -71,11 +59,7 @@ public IEnumerator Start()
 
 **8)** Now, to load something from our asset bundle simply use **`asset.LoadAsset<T>("assetname")`** for example to load the _**RedCube**_ that i added into the example asset bundle earlier i can just do **`asset.LoadAsset<GameObject>("RedCube")`** as shown below.
 
-<div align="left">
-
-<img src="../.gitbook/assets/7.PNG" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/7.PNG" alt=""></div>
 
 If you done everything correctly your asset should now be in the game. For example my red cube spawned in the mainmenu :smiley:&#x20;
 
